@@ -1,10 +1,10 @@
 # Awesome Berlin
-A guide aiming to help newcomers to have a successful start in Berlin!
+A guide aiming to help newcomers to have a successful start in São Paulo!
 
 Available in:
 
-- :brazil: [Português](https://marlonbernardes.github.io/awesome-berlin/pt-br/)
-- :us: [English](https://marlonbernardes.github.io/awesome-berlin/en/)
+- :brazil: [Português](https://ezefranca.github.io/awesome-sao-paulo/pt-br/)
+- :us: [English](https://ezefranca.github.io/awesome-sao-paulo/en/)
 
 # Want to help?
 Contributions are welcome and are greatly appreciated!

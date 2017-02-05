@@ -2,39 +2,25 @@
 
 ## Pré-requisitos
 
-Existem alguns documentos necessários para fazer uma aplicação válida de um apartamento. Antes de fazer qualquer
+Existem alguns documentos necessários para fazer uma locação de um apartamento em São Paulo. Antes de fazer qualquer
 aplicação, tenha em mãos:
 
-- *Bewerbungsbogen* - formulário de aplicação, o locador lhe fornecerá esse documento (algumas imobiliárias mandam por este documento por email, após você agendar uma visita)
-- Últimos 3 contra cheques **ou** contrato de trabalho que prove sua renda mensal **ou** algo que comprove renda fixa
-mensal, como extrato bancário de vários meses;
-- *Mietschuldenfreiheitsbescheinigung*<sup>1</sup>(Documento que prova que você não tem débitos com o último locador);
-- Documento de Identificação, ID ou passaporte + visto;
-- *[SCHUFA](/pages/obtendo-schufa)* (documento que prova que você é um bom pagador)
-- *[Amtliche Meldebestätigung für die Anmeldung](/pages/registro-de-residencia.md)* (Confirmação oficial do registro de
-residência)
-- Alguns locatários exigem o visto de residência ou um termo de comprometimendo que você irá fazer um seguro
-contra acidentes domésticos,
-
-<small>_1_- Se você não tem um documento alemão do último locatário, tente utilizar uma certidão negativa de livre de débitos
-(com tradução), ou explicar a situação, que devido a recente chegada é o seu primeiro aluguel na Alemanha.</small>
+*Locatário Pessoa Física*
+- Carteira de Identidade e CPF (do casal, se for o caso)
+- Comprovante de residência (conta de água ou luz)
+- Comprovante de rendimento igual ou superior a 3 (três) vezes o valor do aluguel (contra-cheque de salário, carteira profissional, ou declaração de Imposto de Renda).
 
 ## Antes de começar a procura
 
- - Antes de tudo, **cuidado!** Nunca transfira dinheiro para um possível locador antes de assinar o contrato de aluguel. Muitas pessoas são vítimas de golpes por acreditarem em histórias (muitas vezes convincentes) e transferirem dinheiro para pessoas mal intencionadas. Este tipo de golpe é comum por aqui, então fique atento(a)!
- - Ao procurar por um apartamento, você poderá se deparar com os termos *Kaltmiete* e *Warmmiete*, e é importante entender a diferença para que você saiba qual valor você irá pagar por mês. O termo  *Kaltmiete* indica o valor frio do aluguel, ou seja: o valor a ser pago representa apenas os custos do aluguel e não inclui custos adicionais, como aquecimento, limpeza das áreas comuns, etc. O termo *Warmmiete* representa o aluguel "quente", que inclui os gastos adicionais, como aquecimento e água. Eletricidade e internet nem sempre fazem parte do *Warmmiete*, então leia a descrição do que está incluso antes de aluguar. Caso o valor do aluguel apresentado seja o frio (também chamado de *KM*), preveja cerca de 20% de custos adicionais para ter uma ideia do valor final.
- - Alugueis de longo prazo geralmente requerem que você faça um depósito de segurança (caução) após a assinatura do contrato (*Kaution* em alemão), que geralmente corresponde a 3x o valor do aluguel "frio" do apartamento (e geralmente pode ser parcelado em 3x). Este valor pode retornar para você após o término do contrato.
- - O termo **Zimmer** representa a quantidade de cômodos da casa/apartamento. Cozinha, banheiros e sacadas não fazem parte do valor representado por este número. Como exemplo, um apartamento com 3 zimmer provavelmente possui 2 quartos de dormir e 1 sala de estar.
+ - Ao procurar por um apartamento, você poderá se deparar com os termos *Kitnet* e *Studio*, que são apartamentos menores. Em caso de dúvida, SEMPRE visite antes de entregar qualquer documento.
+
  - Algumas perguntas que podem te ajudar a filtrar a escolha de um apartamento:
   - Ele já vem mobiliado ou com cozinha montada?
   - Animais de estimação são permitidos?
   - Você conhece e gosta do bairro?
-  - Há garagem para bicicletas/carros e/ou aréa para guardar objetos? (*Keller*);
-  - O aquecimento é a gás, elétrico, óleo ou carvão? (aquecedores elétricos geralmente são menos eficientes)
-  - Qual a eficiência energética do apartamento? (geralmente esta informação é exibida em uma das fotos do apartamento)
-  - Há caução? Qual o valor? (geralmente é 3x o "aluguel frio")
+  - Há garagem para bicicletas/carros e/ou aréa para guardar objetos? 
   - Há supermercados, farmácias e lojas nas proximidades?
-  - Quão acessível é o local? Há opções de transporte público (especialmente U-Bahn, S-Bahn ou Tram) nas proximidades?
+  - Quão acessível é o local? Há opções de transporte público (especialmente Metrô e trens da CPTM, além de ciclofaixas) nas proximidades?
 
 ## Onde procurar
 
